@@ -7,26 +7,29 @@ Users can search for images, browse results, and load more seamlessly.
 
 🚀 Live Demo
 
-👉 View Project on Vercel
 
-✨ Features
+⦁	👉 View Project on Vercel
 
-🔍 Search images from Unsplash API
+⦁	✨ Features
 
-📸 Responsive grid-based layout
+⦁	🔍 Search images from Unsplash API
 
-🔄 Infinite pagination (load more images)
+⦁	📸 Responsive grid-based layout
 
-⚡ Built with React + Vite
+⦁	⚡ Built with React + Vite
 
-🎨 Styled using Tailwind CSS
+⦁	🎨 Styled using Tailwind CSS
 
-🌐 Deployment on Vercel
+⦁	🌐 Deployment on Vercel
 
 🛠️ Tech Stack
 
 ⦁	React.js (Frontend)
+
 ⦁	Vite (Build Tool)
+
 ⦁	Tailwind CSS (Styling)
+
 ⦁	Unsplash API (Image Data)
+
 ⦁	Vercel (Hosting & Deployment)
